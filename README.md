@@ -13,7 +13,7 @@ Projet informatique de première année - 2023. Jeu de réflexion 2D point and c
 ### <a href="https://github.com/ThomasSchneider-94/CSC_4101"> CSC_4101 </a>
 Projet du cours Architectures et applications web de deuxième année. Site de collection de génériques de dessins animés.
 
-### <a href="https://github.com/Chloe-2622/ConquestTroupFormation"> Totally not Totally Acurate Battle Simulator </a>
+### <a href="https://github.com/Chloe-2622/ConquestTroupFormation"> Totally Not Totally Acurate Battle Simulator </a>
 Projet du cours AMJV de deuxième année - 2024. Jeu de capture de drapeau dans le style RTS.
 
 
