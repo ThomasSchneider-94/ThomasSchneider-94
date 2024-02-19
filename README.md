@@ -12,7 +12,7 @@ TIPE 2022 - Réalisation d'une communication Bluetooth dont le but est de relier
 Projet informatique de première année. Jeu de réflexion 2D point and click dont le but est d'apprendre les bases du language Bash aux élèves de première année. <a href="https://github.com/Crafteurmax/BashInTime"> Cliquez ici </a>
 
 ### <u> CSC_4101  </u>
-Projet du cours "Architectures et applications web" de deuxième année. Site de collection d'objets génériques (en l'ocurrence ici des génériques d'animé). <a href="https://github.com/ThomasSchneider-94/CSC_4101"> </a> Cliquez ici </a>
+Projet du cours "Architectures et applications web" de deuxième année. Site de collection d'objets génériques (en l'ocurrence ici des génériques d'animé). <a href="https://github.com/ThomasSchneider-94/CSC_4101"> Cliquez ici </a>
 
 ### <u> Totally Not Totally Acurate Battle Simulator </u>
 Projet du cours "Architecture des Moteurs de Jeux Vidéo" de deuxième année. Jeu de capture de drapeau dans le style RTS. <a href="https://github.com/Chloe-2622/ConquestTroupFormation"> Cliquez ici </a>
