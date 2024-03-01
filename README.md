@@ -21,7 +21,7 @@ Projet du cours "Architecture des Moteurs de Jeux Vidéo" de deuxième année - 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Game Jams </b>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u> Bittersweet Journey </u>
-UniJam 2022 - Développeur. Walking-simulator à visé des plus jeunes, agrémenté de mini-jeux divers. <a href="https://github.com/HugoLhuilier/Around-the-worl"> Cliquez ici </a>
+UniJam 2022 - Développeur. Walking-simulator à visé des plus jeunes, agrémenté de mini-jeux divers. <a href="https://github.com/HugoLhuilier/Around-the-world"> Cliquez ici </a>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u> Root Expansion </u>
 Global Game Jam 2023 - Développeur et UI Designer. Jeu de stratégie en multijoueur local au tour par tour. <a href="https://github.com/VoHeLi/RootExpansion"> Cliquez ici </a>
