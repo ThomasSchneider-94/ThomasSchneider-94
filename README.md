@@ -12,7 +12,7 @@ Page itch.io : https://marteaudeguerre.itch.io
 **Sujet**: Réalisation d'une communication Bluetooth dont le but est de relier un pacemaker à un appareil externe. \
 **Outils**: Carte Arduino et module Bluetooth HC-05. \
 **Langages**: C++ pour l'Arduino et Python pour les statistiques. \
-[**Lien du dépôt****](https://github.com/ThomasSchneider-94/TIPE_Bluetooth_Comunication)
+[**Lien du dépôt**](https://github.com/ThomasSchneider-94/TIPE_Bluetooth_Comunication)
 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u> BashINTime </u>
