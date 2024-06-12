@@ -20,7 +20,7 @@ Page itch.io : https://marteaudeguerre.itch.io
 **Sujet**: Création d'un jeu de réflexion 2D point and click dont le but est d'apprendre les bases du langage Bash aux élèves arrivant en première année. \
 **Outils**: Unity \
 **Langages**: C# et un peu de ShaderLab pour les Shaders. \
-[**Lien du dépôt**](https://github.com/Crafteurmax/BashInTime)
+[**Lien du dépôt**](https://github.com/Crafteurmax/BashInTime) / [**Page itch.io**](https://crafteurmax.itch.io/bashintime)
 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u> CSC_4101  </u>
