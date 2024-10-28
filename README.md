@@ -192,7 +192,7 @@ Vous pourrez retrouver l'ensemble de ces jeux sur ma page itch.io : [https://mar
 **Tools**: Yoctopuce wattmeter \
 **Tasks done**:
 
-- Implementation of a log system;
+- Implementation of a logging system;
 - Development of algorithmic diffusion layers (Trains, MPI);
 - Developement of a communication layer (MPI);
 - Integration of Yoctopuce wattmeter in the project to measure consumption;
