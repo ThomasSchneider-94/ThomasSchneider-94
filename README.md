@@ -18,7 +18,7 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 - Recherches pour l'intégration de différentes solutions de prises de mesures CPU ([Scaphandre](https://github.com/hubblo-org/scaphandre), [PowerAPI](https://github.com/powerapi-ng), [Ecofloc](https://github.com/labDomolandes/ecofloc) et [Likwid](https://github.com/RRZE-HPC/likwid));
 - Réalisations de mesures expérimentales de performances;
 
-**Langages**: C++. \
+**Langages**: C++.
 
 </details>
 
@@ -29,7 +29,7 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 **Contexte**:  TIPE de classes préparatoires 2022 \
 **Sujet**: Réalisation d'une communication Bluetooth dont le but est de relier un pacemaker à un appareil externe. \
 **Outils**: Carte Arduino et module Bluetooth HC-05. \
-**Langages**: C++ pour l'Arduino et Python pour les statistiques. \
+**Langages**: C++ pour l'Arduino et Python pour les statistiques.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [BashINTime](https://github.com/Crafteurmax/BashInTime) 
 
@@ -44,7 +44,7 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 **Contexte**:  Projet du cours "Architectures et applications web" de deuxième année. \
 **Sujet**: Création d'un site permettant de gérer une collection d'objets génériques, objets choisis par l'étudiant (Dans mon cas, des génériques d'animés). \
 **Outils**: Symphony \
-**Langages**: PHP et HTML \
+**Langages**: PHP et HTML
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Totally Not Totally Accurate Battle Simulator](https://github.com/Chloe-2622/ConquestTroupFormation) 
 
@@ -61,7 +61,7 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 **Sujet**: Création d'une application visant à dessiner dans le style du logiciel Turtle mais à l'échelle d'une pièce grâce à des ESP32 (Non fonctionnel pour cause de temps). \
 **Rôle**: Développeur \
 **Outils**: ESP32s3 et ESP-IDF \
-**Langages**: C \
+**Langages**: C
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Like a drop in the Sea](https://github.com/Crafteurmax/Sea) (anciennement Sea++) 
 
@@ -69,7 +69,7 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 **Sujet**: Jeu réalisé sous Unreal Engine5, visant à éveiller les joueurs aux problèmes écologiques de manière didactique. Le gameplay principal du jeu est sa composante de jeu de rythme.\
 **Rôle**: Développeur \
 **Outils**: Unreal Engine 5 \
-**Langages**: Blueprint \
+**Langages**: Blueprint
 
 </details>
 
@@ -92,7 +92,7 @@ Vous pourrez retrouver l'ensemble de ces jeux sur ma page itch.io : [https://mar
 **Jeu**: Jeu de stratégie en multijoueur local au tour par tour, où le but sera de faire pousser des plantes afin de battre votre adversaire. \
 **Rôle**: Développeur et UI Designer. \
 **Outils**: Unity \
-**Langages**: C# \
+**Langages**: C#
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Transform'matters](https://github.com/VoHeLi/CookieProject) 
 
@@ -136,49 +136,23 @@ Vous pourrez retrouver l'ensemble de ces jeux sur ma page itch.io : [https://mar
 
 **Contenu**: Application Web permettant de récupérer les récompenses finales d'une chasse aux trésors en fonction du nombre de personne ayant déjà résolu l'énigme. L'application demande une authentification par le mail de l'école. \
 **Outils**: Dockers \
-**Langages**: Python et HTML \
+**Langages**: Python et HTML
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Dépouillage des votes](https://github.com/BDA-TSP-IMTBS/Votes-BDA) 
 
 **Contenu**: Simple programme permettant d'analyser les résultats d'un vote au jugement majoritaire, fait sur la plateforme [Bélénios](https://www.belenios.org), et réaliser un graphique à partir de ces résultats. \
 **Outils**: - \
-**Langages**: Python \
+**Langages**: Python
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Karuta](https://github.com/ThomasSchneider-94/Karuta-Project) 
 
 **Contenu**: Jeu téléphone de mémoire/blind-test du club Anim'INT, inspiré du jeu traditionnel japonais (en cours) \
 **Outils**: Unity \
-**Langages**: C# \
+**Langages**: C#
 
 </details>
 
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <details><summary><h1 style="display: inline;">MY PROJECTS</h1></summary>
 
@@ -200,7 +174,7 @@ Here, you will find all the the projects I participated in.
 - Research to integrate a CPU consumption measurement in the project ([Scaphandre](https://github.com/hubblo-org/scaphandre), [PowerAPI](https://github.com/powerapi-ng), [Ecofloc](https://github.com/labDomolandes/ecofloc) and [Likwid](https://github.com/RRZE-HPC/likwid));
 - Conducting experimental performance measurements.
 
-**Language**: C++. \
+**Language**: C++.
 
 </details>
 
@@ -211,7 +185,7 @@ Here, you will find all the the projects I participated in.
 **Context**:  TIPE of Preparatory Class 2022 \
 **Subject**: Creation of a Bluetooth Communication to transfer data between a pacemaker and an external device. \
 **Tools**: Arduino Board and Bluetooth module HC-05. \
-**Languages**: C++ for Arduino and Python for analysing data. \
+**Languages**: C++ for Arduino and Python for analysing data.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [BashINTime](https://github.com/Crafteurmax/BashInTime) 
 
@@ -226,7 +200,7 @@ Here, you will find all the the projects I participated in.
 **Context**:  Second year IT project for "Architectures et applications web" course \
 **Subject**: Creation of a website to manage a collection of objects chosen by the student (In my case, anime credits). \
 **Tools**: Symphony. \
-**Languages**: PHP and HTML. \
+**Languages**: PHP and HTML.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Totally Not Totally Accurate Battle Simulator](https://github.com/Chloe-2622/ConquestTroupFormation) 
 
@@ -242,7 +216,7 @@ Here, you will find all the the projects I participated in.
 **Subject**: Creation of an application aimed at drawing in the style of the Turtle software but on the scale of a room using ESP32 (Non-functional due to not enough time). \
 **Role**: Programmer \
 **Tools**: ESP32s3 and ESP-IDF. \
-**Languages**: C. \
+**Languages**: C.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Like a drop in the Sea](https://github.com/Crafteurmax/Sea) (previously Sea++) 
 
@@ -250,7 +224,7 @@ Here, you will find all the the projects I participated in.
 **Subject**: Game made with Unreal Engine 5, to awake player to ecological problems in an educational manner. The main gameplay of the game is its rhythm game component. \
 **Role**: Programmer \
 **Tools**: Unreal Engine 5. \
-**Languages**: Blueprint. \
+**Languages**: Blueprint.
 
 </details>
 
@@ -273,7 +247,7 @@ You can find all these games on my Itch.io page : [https://marteaudeguerre.itch.
 **Game**: Turn based strategy game in local multiplayer in which the goal is to grow plants to defeat your enemy.  \
 **Role**: Programmer and UI Designer \
 **Tools**: Unity \
-**Languages**: C# \
+**Languages**: C#
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Transform'matters](https://github.com/VoHeLi/CookieProject)
 
@@ -316,19 +290,19 @@ You can find all these games on my Itch.io page : [https://marteaudeguerre.itch.
 
 **Content**: Web application allowing users to collect the final reward of a treasure hunt based on the number of people who have already solved the puzzle. The application requires authentication by the school email. \
 **Tools**: Dockers \
-**Languages**: Python and HTML \
+**Languages**: Python and HTML
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Votes Counting](https://github.com/BDA-TSP-IMTBS/Votes-BDA)
 
 **Content**: Simple program allowing you to analyse the results of a majority judgment vote, done on the [Bélénios](https://www.belenios.org) platform, and create a graph from these results. \
 **Tools**: - \
-**Languages**: Python \
+**Languages**: Python
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Karuta](https://github.com/ThomasSchneider-94/Karuta-Project)
 
 **Content**: Mobile memory/blind-test game of the Anim'INT club, inspired by traditional game of Karuta (in progress). \
 **Tools**: Unity \
-**Languages**: C# \
+**Languages**: C#
 
 </details>
 
