@@ -1,6 +1,6 @@
 <details><summary><h1 style="display: inline;">MES PROJETS</h1></summary>
 
-Vous retrouverez ici une liste des projets auxquels j'ai participé. \
+Vous retrouverez ici une liste des projets auxquels j'ai participé.
 
 <details><summary><h2 style="display: inline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projets professionnels</h2></summary>
 
