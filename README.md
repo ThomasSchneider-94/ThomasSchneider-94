@@ -1,3 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details><summary><h1 style="display: inline;">MES PROJETS</h1></summary>
 
 Vous retrouverez ici une liste des projets auxquels j'ai participé.
@@ -28,7 +44,7 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 
 | **Date** | **Contexte** | **Description** | **Outils** | **Langages** | **Lien** |
 |:--------:|:------------:|:---------------:|:----------:|:-----------:|:--------:|
-| 2022 | TIPE de classes préparatoires | Réalisation d'une communication Bluetooth dont le but est de relier un pacemaker à un appareil externe | Carte Arduino Module&nbsp;Bluetooth&nbsp;HC-05 | C++&nbsp;(Arduino) Python&nbsp;(statistiques) | [GitHub](https://github.com/ThomasSchneider-94/TIPE_Bluetooth_Communication) |
+| 2021-2022 | TIPE de classes préparatoires | Réalisation d'une communication Bluetooth dont le but est de relier un pacemaker à un appareil externe | Carte Arduino Module&nbsp;Bluetooth&nbsp;HC-05 | C++&nbsp;(Arduino) Python&nbsp;(statistiques) | [GitHub](https://github.com/ThomasSchneider-94/TIPE_Bluetooth_Communication) |
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BashINTime
 
@@ -66,78 +82,43 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 
 Vous pourrez retrouver l'ensemble de ces jeux sur ma page itch.io : [https://marteaudeguerre.itch.io](https://marteaudeguerre.itch.io)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Bittersweet Journey](https://github.com/HugoLhuilier/Around-the-world) 
+Tous les jeux suivants ont été réalisé avec le moteur **Unity** en C#.
 
-**Évènement**:  UniJam 2022 \
-**Jeu**: Walking-simulator à visé des plus jeunes, agrémenté de mini-jeux divers. Prix du public de cette édition. \
-**Rôle**: Développeur \
-**Outils**: Unity \
-**Langages**: C# \
-[**Page itch.io**](https://github.com/HugoLhuilier/Around-the-world)
-
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Root Expansion](https://github.com/VoHeLi/RootExpansion) 
-
-**Évènement**:  Global Game Jam 2023 \
-**Jeu**: Jeu de stratégie en multijoueur local au tour par tour, où le but sera de faire pousser des plantes afin de battre votre adversaire. \
-**Rôle**: Développeur et UI Designer. \
-**Outils**: Unity \
-**Langages**: C#
-
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Transform'matters](https://github.com/VoHeLi/CookieProject) 
-
-**Évènement**:  UniJam 2023 \
-**Jeu**: Jeu de réflexion 2D où l'on doit résoudre des énigmes en transformant les sources d'énergies à disposition. \
-**Rôle**: Développeur et UI Designer. \
-**Outils**: Unity \
-**Langages**: C# \
-[**Page itch.io**](https://crafteurmax.itch.io/transformmatters)
-
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Make me Loaf](https://github.com/Chloe-2622/MakeMeLoaf) 
-
-**Évènement**:  Global Game Jam 2024 \
-**Jeu**: Jeu 3D mêlant gestion d’une boulangerie et de l’humeur de votre bébé. \
-**Rôle**: Développeur et UI Designer. \
-**Outils**: Unity \
-**Langages**: C# \
-[**Page itch.io**](https://crafteurmax.itch.io/make-me-loaf)
-
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Temps Plié](https://github.com/Crafteurmax/TempsPlie) 
-
-**Évènement**:  INT Game Jam 2024 \
-**Jeu**: Jeu 2D de plateforme et d'énigme demandant de changer les saisons pour résoudre des casses têtes et avancer dans les niveaux. \
-**Rôle**: Développeur et UI Designer. \
-**Outils**: Unity \
-**Langages**: C# \
-[**Page itch.io**](https://crafteurmax.itch.io/temps-plie)
+| Jeu | GameJam | Date | Description | Rôles | Liens |
+|:---:|:-------:|:----:|:-----------:|:-----:|:-----:|
+| **Bittersweet Journey** | UniJam | 2022 | Walking-simulator à visé des plus jeunes, agrémenté de mini-jeux divers. **Prix du public** de cette édition | Développeur junior | [GitHub](https://github.com/HugoLhuilier/Around-the-world) [itch.io](https://github.com/HugoLhuilier/Around-the-world) |
+| **Root Expansion** | Global Game Jam | 2023 | Jeu de stratégie en multijoueur local au tour par tour, où le but sera de faire pousser des plantes afin de battre votre adversaire | Développeur UI&nbsp;Designer | [GitHub](https://github.com/VoHeLi/RootExpansion) [Jeu](https://v3.globalgamejam.org/2023/games/root-expansion-4) |
+| **Transform'matters** | UniJam | 2023 | Jeu de réflexion 2D où l'on doit résoudre des énigmes en transformant les sources d'énergies à disposition | Développeur UI&nbsp;Designer | [GitHub](https://github.com/VoHeLi/CookieProject) [itch.io](https://crafteurmax.itch.io/transformmatters) |
+| **Make me Loaf** | Global Game Jam | 2024 | Jeu 3D mêlant gestion d’une boulangerie et de l’humeur de votre bébé | Développeur UI&nbsp;Designer | [GitHub](https://github.com/Chloe-2622/MakeMeLoaf) [itch.io](https://crafteurmax.itch.io/make-me-loaf) |
+| **Temps Plié** | INT Game Jam | 2024 | Jeu 2D de plateforme et d'énigme demandant de changer les saisons pour résoudre des casses têtes et avancer dans les niveaux | Développeur UI&nbsp;Designer | [GitHub](https://github.com/Crafteurmax/TempsPlie) [itch.io](https://crafteurmax.itch.io/temps-plie) |
 
 </details>
 
 <details><summary><h2 style="display: inline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Associatif</h2></summary>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Mon ami Boris](https://github.com/BDA-TSP-IMTBS/Mon_ami_Boris) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mon ami Boris
 
-**Contenu**: Bot Discord pour aider à la gestion du serveur Discord du Bureau des Arts de Télécom SudParis. Permet l'auto-attribution de rôle par les utilisateurs et améliore le système d'abonnement aux channels annonce des serveurs communautaires. \
-**Outils**: - \
-**Langages**: Node.js \
-[**Dépôt personnel pour les tests**](https://github.com/ThomasSchneider-94/Discord_Test_Bot)
+| **Date** | **Description** | **Langage** | **Lien** |
+|:--------:|:---------------:|:-----------:|:--------:|
+| 2023 | Bot Discord pour aider à la gestion du serveur Discord du Bureau des Arts de Télécom SudParis. Permet l'auto-attribution de rôle par les utilisateurs et améliore le système d'abonnement aux channels annonce des serveurs communautaires | Node.js | [GitHub](https://github.com/BDA-TSP-IMTBS/Mon_ami_Boris) |
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Coffre au trésor](https://github.com/BDA-TSP-IMTBS/Treasure-Chest) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coffre au trésor
 
-**Contenu**: Application Web permettant de récupérer les récompenses finales d'une chasse aux trésors en fonction du nombre de personne ayant déjà résolu l'énigme. L'application demande une authentification par le mail de l'école. \
-**Outils**: Dockers \
-**Langages**: Python et HTML
+| **Date** | **Description** | **Outils** | **Langages** | **Lien** |
+|:--------:|:---------------:|:----------:|:-----------:|:--------:|
+| 2024 | Application Web permettant de récupérer les récompenses finales d'une chasse aux trésors en fonction du nombre de personne ayant déjà résolu l'énigme. L'application demande une authentification par le mail de l'école | Dockers | Python HTML | [GitHub](https://github.com/BDA-TSP-IMTBS/Treasure-Chest) |
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Dépouillage des votes](https://github.com/BDA-TSP-IMTBS/Votes-BDA) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dépouillage des votes
 
-**Contenu**: Simple programme permettant d'analyser les résultats d'un vote au jugement majoritaire, fait sur la plateforme [Bélénios](https://www.belenios.org), et réaliser un graphique à partir de ces résultats. \
-**Outils**: - \
-**Langages**: Python
+| **Date** | **Description** | **Langages** | **Lien** |
+|:--------:|:---------------:|:----------:|:----------:|
+| 2024 | Simple programme permettant d'analyser les résultats d'un vote au jugement majoritaire, fait sur la plateforme [Bélénios](https://www.belenios.org), et réaliser un graphique à partir de ces résultats | Python | [GitHub](https://github.com/BDA-TSP-IMTBS/Votes-BDA) |
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Karuta](https://github.com/ThomasSchneider-94/Karuta-Project) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karuta (Work in progress)
 
-**Contenu**: Jeu téléphone de mémoire/blind-test du club Anim'INT, inspiré du jeu traditionnel japonais (en cours) \
-**Outils**: Unity \
-**Langages**: C#
+| **Date** | **Description** | **Outils** | **Langage** | **Lien** |
+|:--------:|:---------------:|:----------:|:-----------:|:--------:|
+| 2024 | Jeu téléphone de mémoire/blind-test du club Anim'INT, inspiré du jeu traditionnel japonais | Unity | C# | [GitHub](https://github.com/ThomasSchneider-94/Karuta-Project) |
 
 </details>
 
