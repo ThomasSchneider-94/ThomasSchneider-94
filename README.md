@@ -58,7 +58,7 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 
 | **Date** | **Contexte** | **Description** | **Roles** | **Outils** | **Langages** | **Liens** |
 |:--------:|:------------:|:---------------:|:---------:|:----------:|:------------:|:---------:|
-| 2023 | Télécom&nbsp;SudParis&nbsp;(1A) Projet&nbsp;Cassiopée | Jeu réalisé sous Unreal Engine5, visant à éveiller les joueurs aux problèmes écologiques de manière didactique. Le gameplay principal du jeu est sa composante de jeu de rythme | Developpeur Gameplay | Unreal Engine 5 | Blueprint | [GitHub](https://github.com/Crafteurmax/Sea) [itch.io](https://crafteurmax.itch.io/like-a-drop-in-the-sea) |
+| 2023/2024 | Télécom&nbsp;SudParis&nbsp;(1A) Projet&nbsp;Cassiopée | Jeu réalisé sous Unreal Engine5, visant à éveiller les joueurs aux problèmes écologiques de manière didactique. Le gameplay principal du jeu est sa composante de jeu de rythme | Developpeur Gameplay | Unreal Engine 5 | Blueprint | [GitHub](https://github.com/Crafteurmax/Sea) [itch.io](https://crafteurmax.itch.io/like-a-drop-in-the-sea) |
 
 </details>
 
