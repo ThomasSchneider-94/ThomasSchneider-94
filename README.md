@@ -22,7 +22,7 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 
 </details>
 
-<details><summary><h2 style="display: inline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projets scholaires</h2></summary>
+<details><summary><h2 style="display: inline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projets scolaires</h2></summary>
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communication Bluetooth 
 
@@ -60,6 +60,18 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 |:--------:|:------------:|:---------------:|:---------:|:----------:|:------------:|:---------:|
 | 2023/2024 | Télécom&nbsp;SudParis&nbsp;(1A) Projet&nbsp;Cassiopée | Jeu réalisé sous Unreal Engine5, visant à éveiller les joueurs aux problèmes écologiques de manière didactique. Le gameplay principal du jeu est sa composante de jeu de rythme | Developpeur Gameplay | Unreal Engine 5 | Blueprint | [GitHub](https://github.com/Crafteurmax/Sea) [itch.io](https://crafteurmax.itch.io/like-a-drop-in-the-sea) |
 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PhantomStars
+
+| **Date** | **Contexte** | **Description** | **Roles** | **Outils** | **Langage** | **Lien** |
+|:--------:|:------------:|:---------------:|:---------:|:----------:|:-----------:|:--------:|
+| 2024 | Télécom&nbsp;SudParis&nbsp;(3A) Cours&nbsp;"Interaction et capteurs" | Jeu de pêche à la manette inspiré des mécaniques de Zelda Wind Waker et Sea of Stars | Developpeur Gameplay | Unity | C# | [GitHub](https://github.com/Chloe-2622/PhantomStars) |
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fakutori
+
+| **Date** | **Contexte** | **Description** | **Roles** | **Outils** | **Langage** | **Liens** |
+|:--------:|:------------:|:---------------:|:---------:|:----------:|:-----------:|:---------:|
+| 2024-2025 | Télécom&nbsp;SudParis&nbsp;(3A) Projets&nbsp;de fin&nbsp;d'études | Factory-builder permettant aux joueurs de découvrir et apprendre la grammaire japonaise | Développeur UI&nbsp;Designer | Unity | C# | [GitHub](https://github.com/Crafteurmax/Fakutori) [itch.io](https://crafteurmax.itch.io/fakutori) |
+
 </details>
 
 <details><summary><h2 style="display: inline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Game Jams</h2></summary>
@@ -70,7 +82,7 @@ Tous les jeux suivants ont été réalisé avec le moteur **Unity** en C#.
 
 | Jeu | GameJam | Date | Description | Rôles | Liens |
 |:---:|:-------:|:----:|:-----------:|:-----:|:-----:|
-| **Bittersweet Journey** | UniJam | 2022 | Walking-simulator à visé des plus jeunes, agrémenté de mini-jeux divers. **Prix du public** de cette édition | Développeur junior | [GitHub](https://github.com/HugoLhuilier/Around-the-world) [itch.io](https://github.com/HugoLhuilier/Around-the-world) |
+| **Bittersweet Journey** | UniJam | 2022 | Walking-simulator à visé des plus jeunes, agrémenté de mini-jeux divers. **Prix du public** de cette édition | Développeur junior | [GitHub](https://github.com/HugoLhuilier/Around-the-world) [itch.io](https://shindarik.itch.io/bittersweet-journey) |
 | **Root Expansion** | Global Game Jam | 2023 | Jeu de stratégie en multijoueur local au tour par tour, où le but sera de faire pousser des plantes afin de battre votre adversaire | Développeur UI&nbsp;Designer | [GitHub](https://github.com/VoHeLi/RootExpansion) [Jeu](https://v3.globalgamejam.org/2023/games/root-expansion-4) |
 | **Transform'matters** | UniJam | 2023 | Jeu de réflexion 2D où l'on doit résoudre des énigmes en transformant les sources d'énergies à disposition | Développeur UI&nbsp;Designer | [GitHub](https://github.com/VoHeLi/CookieProject) [itch.io](https://crafteurmax.itch.io/transformmatters) |
 | **Make me Loaf** | Global Game Jam | 2024 | Jeu 3D mêlant gestion d’une boulangerie et de l’humeur de votre bébé | Développeur UI&nbsp;Designer | [GitHub](https://github.com/Chloe-2622/MakeMeLoaf) [itch.io](https://crafteurmax.itch.io/make-me-loaf) |
