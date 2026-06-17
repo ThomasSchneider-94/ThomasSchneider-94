@@ -24,52 +24,41 @@ Vous retrouverez ici une liste des projets auxquels j'ai participé.
 
 <details><summary><h2 style="display: inline;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projets scholaires</h2></summary>
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Communication Bluetooth](https://github.com/ThomasSchneider-94/TIPE_Bluetooth_Communication) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Communication Bluetooth 
 
-**Contexte**:  TIPE de classes préparatoires 2022 \
-**Sujet**: Réalisation d'une communication Bluetooth dont le but est de relier un pacemaker à un appareil externe. \
-**Outils**: Carte Arduino et module Bluetooth HC-05. \
-**Langages**: C++ pour l'Arduino et Python pour les statistiques.
+| **Date** | **Contexte** | **Description** | **Outils** | **Langages** | **Lien** |
+|:--------:|:------------:|:---------------:|:----------:|:-----------:|:--------:|
+| 2022 | TIPE de classes préparatoires | Réalisation d'une communication Bluetooth dont le but est de relier un pacemaker à un appareil externe | Carte Arduino Module&nbsp;Bluetooth&nbsp;HC-05 | C++&nbsp;(Arduino) Python&nbsp;(statistiques) | [GitHub](https://github.com/ThomasSchneider-94/TIPE_Bluetooth_Communication) |
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [BashINTime](https://github.com/Crafteurmax/BashInTime) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BashINTime
 
-**Contexte**:  Projet informatique de première année. \
-**Sujet**: Création d'un jeu de réflexion 2D point and click dont le but est d'apprendre les bases du langage Bash aux élèves arrivant en première année. \
-**Outils**: Unity \
-**Langages**: C# et un peu de ShaderLab pour les Shaders. \
-[**Page itch.io**](https://crafteurmax.itch.io/bashintime)
+| **Date** | **Contexte** | **Description** | **Outils** | **Langages** | **Liens** |
+|:--------:|:------------:|:---------------:|:----------:|:------------:|:---------:|
+| 2023 | Télécom&nbsp;SudParis&nbsp;(1A) Projet&nbsp;informatique | Jeu de réflexion 2D point and click destiné aux élèves de première année, visant à l'apprentissage du language Bash | Unity | C# ShaderLab&nbsp;(shaders) | [GitHub](https://github.com/Crafteurmax/BashInTime) [itch.io](https://crafteurmax.itch.io/bashintime) |
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [CSC_4101](https://github.com/ThomasSchneider-94/CSC_4101)  
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CSC_4101
 
-**Contexte**:  Projet du cours "Architectures et applications web" de deuxième année. \
-**Sujet**: Création d'un site permettant de gérer une collection d'objets génériques, objets choisis par l'étudiant (Dans mon cas, des génériques d'animés). \
-**Outils**: Symphony \
-**Langages**: PHP et HTML
+| **Date** | **Contexte** | **Description** | **Outils** | **Langages** | **Lien** |
+|:--------:|:------------:|:---------------:|:----------:|:------------:|:--------:|
+| 2023 | Télécom&nbsp;SudParis&nbsp;(2A) Cours "Architectures et applications web" | Site permettant de gérer une collection d'objets génériques, objets choisis par l'étudiant | Symphony | PHP HTML | [GitHub](https://github.com/ThomasSchneider-94/CSC_4101) |
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Totally Not Totally Accurate Battle Simulator](https://github.com/Chloe-2622/ConquestTroupFormation) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Totally Not Totally Accurate Battle Simulator (TNTABS)
 
-**Contexte**:  Projet du cours "Architecture des Moteurs de Jeux Vidéo" de deuxième année. \
-**Sujet**: Création d'un jeu de capture de drapeau dans le style RTS, permettant au joueur de contrôler plusieurs unités et d'affronter l'ordinateur. \
-**Rôle**: Game designer, développeur et UI Designer. \
-**Outils**: Unity \
-**Langages**: C# \
-[**Page itch.io**](https://chloe2622.itch.io/totally-not-totally-accurate-battle-simulator)
+| **Date** | **Contexte** | **Description** | **Roles** | **Outils** | **Langage** | **Liens** |
+|:--------:|:------------:|:---------------:|:---------:|:----------:|:-----------:|:---------:|
+| 2023 | Télécom&nbsp;SudParis&nbsp;(2A) Cours "Architecture des Moteurs de Jeux Vidéo" | Jeu de capture de drapeau dans le style RTS, permettant au joueur de contrôler plusieurs unités et d'affronter l'ordinateur | Game&nbsp;designer Développeur UI&nbsp;Designer | Unity | C# | [GitHub](https://github.com/Chloe-2622/ConquestTroupFormation) [itch.io](https://chloe2622.itch.io/totally-not-totally-accurate-battle-simulator) |
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Projet Dessin](https://gitlabens.imtbs-tsp.eu/cedric.gautier/net4104-projet-dessin) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Projet Dessin
 
-**Contexte**:  Projet du cours "Internet sans fil : concepts, technologies et architectures" de deuxième année. \
-**Sujet**: Création d'une application visant à dessiner dans le style du logiciel Turtle mais à l'échelle d'une pièce grâce à des ESP32 (Non fonctionnel pour cause de temps). \
-**Rôle**: Développeur \
-**Outils**: ESP32s3 et ESP-IDF \
-**Langages**: C
+| **Date** | **Contexte** | **Description** | **Outils** | **Langage** | **Liens** |
+|:--------:|:------------:|:---------------:|:----------:|:-----------:|:---------:|
+| 2024 | Télécom&nbsp;SudParis&nbsp;(2A) Cours "Internet sans fil : concepts, technologies et architectures" | Application visant à dessiner dans le style du logiciel Turtle mais à l'échelle d'une pièce grâce à des ESP32 (Non fonctionnel pour cause de temps) | ESP32s3 ESP-IDF | C | [GitLab](https://gitlabens.imtbs-tsp.eu/cedric.gautier/net4104-projet-dessin) |
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Like a drop in the Sea](https://github.com/Crafteurmax/Sea) (anciennement Sea++) 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Like a drop in the Sea (Sea++)
 
-**Contexte**:  Projet de développement Cassiopée de deuxième année \
-**Sujet**: Jeu réalisé sous Unreal Engine5, visant à éveiller les joueurs aux problèmes écologiques de manière didactique. Le gameplay principal du jeu est sa composante de jeu de rythme.\
-**Rôle**: Développeur \
-**Outils**: Unreal Engine 5 \
-**Langages**: Blueprint
+| **Date** | **Contexte** | **Description** | **Roles** | **Outils** | **Langages** | **Liens** |
+|:--------:|:------------:|:---------------:|:---------:|:----------:|:------------:|:---------:|
+| 2023 | Télécom&nbsp;SudParis&nbsp;(1A) Projet&nbsp;Cassiopée | Jeu réalisé sous Unreal Engine5, visant à éveiller les joueurs aux problèmes écologiques de manière didactique. Le gameplay principal du jeu est sa composante de jeu de rythme | Developpeur Gameplay | Unreal Engine 5 | Blueprint | [GitHub](https://github.com/Crafteurmax/Sea) [itch.io](https://crafteurmax.itch.io/like-a-drop-in-the-sea) |
 
 </details>
 
