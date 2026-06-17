@@ -1,19 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <details><summary><h1 style="display: inline;">MES PROJETS</h1></summary>
 
 Vous retrouverez ici une liste des projets auxquels j'ai participé.
@@ -91,6 +75,8 @@ Tous les jeux suivants ont été réalisé avec le moteur **Unity** en C#.
 | **Transform'matters** | UniJam | 2023 | Jeu de réflexion 2D où l'on doit résoudre des énigmes en transformant les sources d'énergies à disposition | Développeur UI&nbsp;Designer | [GitHub](https://github.com/VoHeLi/CookieProject) [itch.io](https://crafteurmax.itch.io/transformmatters) |
 | **Make me Loaf** | Global Game Jam | 2024 | Jeu 3D mêlant gestion d’une boulangerie et de l’humeur de votre bébé | Développeur UI&nbsp;Designer | [GitHub](https://github.com/Chloe-2622/MakeMeLoaf) [itch.io](https://crafteurmax.itch.io/make-me-loaf) |
 | **Temps Plié** | INT Game Jam | 2024 | Jeu 2D de plateforme et d'énigme demandant de changer les saisons pour résoudre des casses têtes et avancer dans les niveaux | Développeur UI&nbsp;Designer | [GitHub](https://github.com/Crafteurmax/TempsPlie) [itch.io](https://crafteurmax.itch.io/temps-plie) |
+| **Face-up the Future** | UniJam | 2024 | Jeu de carte au tour par tour. Utilisez intelligemment vos ressources pour révéler les cartes ennemies et vous adapter | Lead&nbsp;Dev | [GitHub](https://github.com/ThomasSchneider-94/SlayTheFuture) [itch.io](https://xiran-kali.itch.io/face-up-the-future) |
+| **Sorting Bubble** | Global Game Jam | 2025 | Jeu de réflexion où vous devrez trier des liste de nombre en utilisant les différents outils mis à disposition et en faisant face à divers obstacles | Développeur | [GitHub](https://github.com/Chloe-2622/Sorting-Bubble) [itch.io](https://adrikat-1.itch.io/sorting-bubble) |
 
 </details>
 
